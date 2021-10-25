@@ -1,0 +1,8 @@
+venv
+__pycache__
+resources
+model_cnn
+*.mp4
+*.json
+*.png
+*.pb
